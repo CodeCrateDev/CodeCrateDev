@@ -1,3 +1,3 @@
-Hi, I'm MrForbas!
-I make games and mods, but also likes making youtube videos.
-I work in C# and C++.
+Hi, I'm MrForbas!\n
+I make games and mods, but also likes making youtube videos.\n
+I work in C# and C++.\n
