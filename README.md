@@ -1,5 +1,10 @@
-# Hello there!
-I'm an indie game dev.
-I mostly use github to backup my projects.
+# Hi, I'm CodeCrate!
 
-I'm a member of **Lost Island Games**.
+## About me
+
+## My Games
+
+## Currently Exploring
+
+## Get in Touch
+
